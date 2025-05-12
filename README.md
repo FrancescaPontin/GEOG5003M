@@ -23,7 +23,7 @@ Contact: F.L.Pontin\@leeds.ac.uk,
 
 ## Module format
 
-Each week of will have a set of lecture slides to read through and a practical session to work through. The course has been designed for you tow work through at your own pace. The dates proved are a guide to give you enough time to meet the assignment deadlines. By the end of Week 6 (w/c/ 16/06/25) you will have done everything you need to complete your portfolio assignment (due 24/06/25) (however half the portfolio assignement can be completed by the end of week 4).
+Each week of will have a set of lecture slides to read through and a practical session to work through. The course has been designed for you to work through at your own pace. The dates proved are a guide to give you enough time to meet the assignment deadlines. By the end of Week 6 (w/c/ 16/06/25) you will have done everything you need to complete your portfolio assignment (due 24/06/25) (however half the portfolio assignement can be completed by the end of week 4).
 
 I will return your portfolio assignment feedback in plenty of time for you to incorporate feedback into your final assessment.
 
