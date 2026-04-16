@@ -1,8 +1,8 @@
 # GEOG5003M Programming for Geographical Information Analysis
 
 All material created & developed by Dr Fran Pontin
+Contact: Yuchen Li; y.li3@leeds.ac.uk
 
-Contact: F.L.Pontin\@leeds.ac.uk,
 
 ## Course Timetable & Content
 
