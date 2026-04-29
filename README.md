@@ -18,7 +18,7 @@ All material created & developed by Dr Fran Pontin; Contact: Dr. Yuchen Li; y.li
 | 9    | 06/07/26 | Week 9: No new content                                                                               |                                     |
 | 10   | 13/07/26 | Week 10: No new content                                                                              |                                     |
 | 11   | 20/07/26 | Week 11: No new content                                                                              |                                     |
-| 12   | 27/07/26 | Week 12: No new content                                                                              | Final Assessment due 2pm 30/07/2026 |
+| 12   | 27/07/26 | Week 12: No new content                                                                              | Final Assessment due 2pm 23/07/2026 |
 
 ## Module format
 
