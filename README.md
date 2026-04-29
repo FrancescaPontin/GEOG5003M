@@ -22,7 +22,7 @@ All material created & developed by Dr Fran Pontin; Contact: Dr. Yuchen Li; y.li
 
 ## Module format
 
-Each week of will have a set of lecture slides to read through and a practical session to work through. The course has been designed for you to work through at your own pace. The dates proved are a guide to give you enough time to meet the assignment deadlines. By the end of Week 6 you will have done everything you need to complete your portfolio assignment (due 23/06/25) (however half the portfolio assignment can be completed by the end of week 4).
+Each week of will have a set of lecture slides to read through and a practical session to work through. The course has been designed for you to work through at your own pace. The dates proved are a guide to give you enough time to meet the assignment deadlines. By the end of Week 6 you will have done everything you need to complete your portfolio assignment (due 23/06/26) (however half the portfolio assignment can be completed by the end of week 4).
 
 I will return your portfolio assignment feedback in plenty of time for you to incorporate feedback into your final assessment.
 
