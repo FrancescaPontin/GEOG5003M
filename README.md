@@ -13,12 +13,12 @@ All material created & developed by Dr Fran Pontin; Contact: Dr. Yuchen Li; y.li
 | 4    | 01/06/26 | Week 4: Effective data visualisation using Python                                                    |                                  |
 | 5    | 08/06/26 | Week 5: Putting it into practice                                                                     |                                 |
 | 6    | 15/06/26 | Week 6: Python as a GIS                                                                              |                                  |
-| 7    | 22/06/26 | Week 7: Spatial Data Analysis in Python                                                              | Portfolio due 2pm 23/06/2025        |
-| 8    | 29/06/26 | Week 8: Open Spatial data science: reproducibility, finding data. Introduction to the Final Project. | Portfolio feedback by 03/07/2025    |
+| 7    | 22/06/26 | Week 7: Spatial Data Analysis in Python                                                              | Portfolio due 2pm 23/06/2026        |
+| 8    | 29/06/26 | Week 8: Open Spatial data science: reproducibility, finding data. Introduction to the Final Project. | Portfolio feedback by 03/07/2026    |
 | 9    | 06/07/26 | Week 9: No new content                                                                               |                                     |
 | 10   | 13/07/26 | Week 10: No new content                                                                              |                                     |
 | 11   | 20/07/26 | Week 11: No new content                                                                              |                                     |
-| 12   | 27/07/26 | Week 12: No new content                                                                              | Final Assessment due 2pm 30/07/2025 |
+| 12   | 27/07/26 | Week 12: No new content                                                                              | Final Assessment due 2pm 30/07/2026 |
 
 ## Module format
 
