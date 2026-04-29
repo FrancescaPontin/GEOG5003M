@@ -17,7 +17,7 @@ All material created & developed by Dr Fran Pontin; Contact: Dr. Yuchen Li; y.li
 | 8    | 29/06/26 | Week 8: Open Spatial data science: reproducibility, finding data. Introduction to the Final Project. | Portfolio feedback by 03/07/2026    |
 | 9    | 06/07/26 | Week 9: No new content                                                                               |                                     |
 | 10   | 13/07/26 | Week 10: No new content                                                                              |                                     |
-| 11   | 20/07/26 | Week 11: No new content                                                                              |                                     |
+| 11   | 20/07/26 | Week 11: No new content                                                                              | Final Assessment due 2pm 23/07/2026                                    |
 | 12   | 27/07/26 | Week 12: No new content                                                                              | Final Assessment due 2pm 23/07/2026 |
 
 ## Module format
